@@ -7,9 +7,9 @@ on:
   pull_request: 
     types: 
       - opened
-    branches: 
-      - 'feature/*'
-      - '*feature'
+    # branches: 
+    #   - 'feature/*'
+    #   - '*feature'
   
 
 jobs:
